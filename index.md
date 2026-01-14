@@ -1,7 +1,7 @@
 # Quantum Algorithm Research Seminar (QARS)
 
 **Room:** D9-2005  
-**Organizing committee:** Cunlu Zhou, Dave Touchette, Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
+**Organizing committee:** Cunlu Zhou (chair), Dave Touchette (co-chair), Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
 
 ## Topics (Spring 2026)
 - Fermionic Gaussian states / classical simulability / Stabilizer: 1
