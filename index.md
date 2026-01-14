@@ -34,4 +34,4 @@
 - Buffer/Q&A as time allows
 
 ## Contact
-qars@usherbrooke.ca
+qars@usherbrooke.ca (to be confirmed...)
