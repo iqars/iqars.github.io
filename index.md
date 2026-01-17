@@ -3,7 +3,7 @@
 **Room:** D9-2005  
 **Organizing committee:** Cunlu Zhou (chair), Dave Touchette (co-chair), Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
 
-## Topics (Spring 2026)
+## Topics (Winter–Spring 2026)
 - Fermionic Gaussian states / classical simulability / Stabilizer: 1
 - Quantum programming / C*-algebra / ZX-Calulus: 2
 - Quantum advantage / Verification / Factoring RSA / QML: 3
@@ -11,7 +11,7 @@
 - Quantum Gibbs Sampling / Lindbladians / PDE & ODE: 5
 - Hamiltonian simulatioin / digital-analog / Trotterization: 6
 
-## Schedule (Spring 2026)
+## Schedule (Winter–Spring 2026)
 
 > **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
 
