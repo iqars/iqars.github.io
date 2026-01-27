@@ -16,8 +16,8 @@
 > **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
 
 | Date | Time | 5-min presentation #1 | 5-min presentation #2 | Tutorial + Research Presentation | Moderator |
-|---|---|---|---|---|---|---|
-| 01-13 | 11:00–12:00 |  | |   |  | Cunlu Zhou |
+|---|---|---|---|---|---|
+| 01-13 | 11:00–12:00 |  | |   |Cunlu Zhou |
 | 01-27 | 10:30–12:00 | Simon Ducharme | Alexandre Leblanc | Marco Armenta: Stabilizer Formalism | Simon Verret |
 | 02-10 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin|
 | 02-24 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette|
