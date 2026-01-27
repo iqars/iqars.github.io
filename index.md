@@ -15,23 +15,17 @@
 
 > **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
 
-| Date | Time | 5-min presentation #1 | 5-min presentation #2 | Tutorial talk (40 min) | Research talk (40 min) | Moderator |
+| Date | Time | 5-min presentation #1 | 5-min presentation #2 | Tutorial + Research Presentation | Moderator |
 |---|---|---|---|---|---|---|
 | 01-13 | 11:00–12:00 |  | |   |  | Cunlu Zhou |
-| 01-27 | 10:30–12:00 | Simon Ducharme | Alexandre Leblanc | Marco Armenta: Stabilizer Formalism | TBA | Simon Verret |
-| 02-10 | 9:30–11:00 | TBA | TBA | TBA | TBA | Josh Cantin|
-| 02-24 | 9:30–11:00 | TBA | TBA | TBA | TBA | Dave Touchette|
-| 03-10 | 9:30–11:00 | TBA | TBA | TBA | TBA | Josh Cantin |
-| 03-24 | 9:30–11:00 | TBA | TBA | TBA | TBA | Cunlu Zhou |
-| 04-07 | 9:30–11:00 | TBA | TBA | TBA | TBA | Simon Verret |
-| 04-21 | 9:30–11:00 | TBA | TBA | TBA | TBA | Dave Touchette |
-| 05-05 | 9:30–11:00 | TBA | TBA | TBA | TBA | Cunlu Zhou |
-
-## Format (typical)
-- **Two 5-min presentations** (10 min total)
-- **Tutorial talk** (~40 min)
-- **Research talk** (~40 min)
-- Buffer/Q&A as time allows
+| 01-27 | 10:30–12:00 | Simon Ducharme | Alexandre Leblanc | Marco Armenta: Stabilizer Formalism | Simon Verret |
+| 02-10 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin|
+| 02-24 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette|
+| 03-10 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
+| 03-24 | 9:30–11:00 | TBA | TBA | TBA | Cunlu Zhou |
+| 04-07 | 9:30–11:00 | TBA | TBA | TBA | Simon Verret |
+| 04-21 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette |
+| 05-05 | 9:30–11:00 | TBA | TBA | TBA | Cunlu Zhou |
 
 ## Contact
 qars.iq@usherbrooke.ca
