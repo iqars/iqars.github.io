@@ -17,15 +17,15 @@
 
 | Date | Time | 5-min presentation #1 | 5-min presentation #2 | Tutorial + Research Presentation | Moderator |
 |---|---|---|---|---|---|
-| 01-13 | 11:00–12:00 |  | |   |Cunlu Zhou |
-| 01-27 | 10:30–12:00 | Simon Ducharme | Alexandre Leblanc | Marco Armenta: Stabilizer Formalism | Simon Verret |
-| 02-10 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin|
-| 02-24 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette|
-| 03-10 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
+| 01-13 | 11:00–12:00 |  | |   | Cunlu Zhou |
+| 01-27 | 10:30–12:00 | Simon Ducharme | Alexandre Leblanc | Marco Armenta: Stabilizer Formalism | Cunlu Zhou |
+| 02-10 | 9:30–11:00 | TBA | TBA | TBA | Simon Verret |
+| 02-24 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
+| 03-10 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette|
 | 03-24 | 9:30–11:00 | TBA | TBA | TBA | Cunlu Zhou |
 | 04-07 | 9:30–11:00 | TBA | TBA | TBA | Simon Verret |
-| 04-21 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette |
-| 05-05 | 9:30–11:00 | TBA | TBA | TBA | Cunlu Zhou |
+| 04-21 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
+| 05-05 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette|
 
 ## Contact
 qars.iq@usherbrooke.ca
