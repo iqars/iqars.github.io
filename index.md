@@ -19,7 +19,7 @@
 |---|---|---|---|---|---|
 | 01-13 | 11:00–12:00 |  | |   | Cunlu Zhou |
 | 01-27 | 10:30–12:00 | Simon Ducharme | (Postponed) | Marco Armenta: Stabilizer Formalism | Cunlu Zhou |
-| 02-10 | 9:30–11:00 | Alexandre Leblanc | TBA | Olivier Nahman-Lévesque | Simon Verret |
+| 02-10 | 9:30–11:00 | Alexandre Leblanc | Victor Drouin-Touchette | Olivier Nahman-Lévesque | Simon Verret |
 | 02-24 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette |
 | 03-10 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
 | 03-24 | 9:30–11:00 | TBA | TBA | TBA | Cunlu Zhou |
