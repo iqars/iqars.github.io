@@ -19,8 +19,8 @@
 | Date | Time | 5-min presentation #1 | 5-min presentation #2 | Tutorial + Research Presentation | Moderator |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 01-13 | 11:00–12:00 |  | |   | Cunlu Zhou |
-| 01-27 | 10:30–12:00 | Simon Ducharme | (Postponed) | Marco Armenta : <br> [Stabilizer Formalism](./materials/slides/Group_Theory_Intro_Armenta.pdf)| Cunlu Zhou |
-| 02-10 | 9:30–11:00 | Alexandre Leblanc | Victor Drouin-Touchette | Olivier Nahman-Lévesque | Simon Verret |
+| 01-27 | 10:30–12:00 | Simon Ducharme : <br> [Mixed to Pure Tomography](./materials/slides/Mixed_to_Pure_Tomography.pdf)| (Postponed) | Marco Armenta : <br> [Stabilizer Formalism](./materials/slides/Group_Theory_Intro_Armenta.pdf)| Cunlu Zhou |
+| 02-10 | 9:30–11:00 | Alexandre Leblanc : <br> [Cloning of Encrypted Qubits](./materials/slides/QARS_10février_EncryptedQubitsCanBeCloned.pdf)| Victor Drouin-Touchette : <br> [Quantum Speedup for Abelian Hidden Subgroup Problem](./materials/slides/QARS%20Feb%2010.pdf.pdf)| Olivier Nahman-Lévesque : <br> Majorana Operators and [Quantum Theorem Proving](./materials/slides/Quantum_theorem_proving.pdf)| Simon Verret |
 | 02-24 | 9:30–11:00 | Elisabeth Mailhot | Dave Touchette | Simon Verret | Simon Verret |
 | 03-10 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette |
 | 03-24 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
