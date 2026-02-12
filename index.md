@@ -16,7 +16,7 @@
 > **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
 
 | Date | Time | 5-min presentation #1 | 5-min presentation #2 | Tutorial + Research Presentation | Moderator |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 01-13 | 11:00–12:00 |  | |   | Cunlu Zhou |
 | 01-27 | 10:30–12:00 | Simon Ducharme | (Postponed) | Marco Armenta: Stabilizer Formalism <br> [Slides](./materials/Group_Theory_Intro_Armenta.pdf)| Cunlu Zhou |
 | 02-10 | 9:30–11:00 | Alexandre Leblanc | Victor Drouin-Touchette | Olivier Nahman-Lévesque | Simon Verret |
