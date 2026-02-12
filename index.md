@@ -4,6 +4,7 @@
 **Organizing committee:** Cunlu Zhou (chair), Dave Touchette (co-chair), Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
 
 ## Topics (Winter–Spring 2026)
+[Access the related papers](materials/papers.md)
 - Fermionic Gaussian states / classical simulability / Stabilizer: 1
 - Quantum programming / C*-algebra / ZX-Calulus: 2
 - Quantum advantage / Verification / Factoring RSA / QML: 3
