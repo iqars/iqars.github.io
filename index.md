@@ -6,11 +6,11 @@
 ## Topics (Winter–Spring 2026)
 [Access the related papers](materials/papers.md)
 - Fermionic Gaussian states / classical simulability / Stabilizer: 1
-- Quantum programming / C*-algebra / ZX-Calulus: 2
+- Quantum programming / C*-algebra / ZX-Calculus: 2
 - Quantum advantage / Verification / Factoring RSA / QML: 3
 - Quantum learning / tomography / Hamiltonian learning: 4
 - Quantum Gibbs Sampling / Lindbladians / PDE & ODE: 5
-- Hamiltonian simulatioin / digital-analog / Trotterization: 6
+- Hamiltonian simulation / digital-analog / Trotterization: 6
 
 ## Schedule (Winter–Spring 2026)
 
@@ -21,7 +21,7 @@
 | 01-13 | 11:00–12:00 |  | |   | Cunlu Zhou |
 | 01-27 | 10:30–12:00 | Simon Ducharme | (Postponed) | Marco Armenta : <br> [Stabilizer Formalism](./materials/slides/Group_Theory_Intro_Armenta.pdf)| Cunlu Zhou |
 | 02-10 | 9:30–11:00 | Alexandre Leblanc | Victor Drouin-Touchette | Olivier Nahman-Lévesque | Simon Verret |
-| 02-24 | 9:30–11:00 | Elisabeth Mailhot | Antoine Carrier | Simon Verret | Simon Verret |
+| 02-24 | 9:30–11:00 | Elisabeth Mailhot | Dave Touchette | Simon Verret | Simon Verret |
 | 03-10 | 9:30–11:00 | TBA | TBA | TBA | Dave Touchette |
 | 03-24 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
 | 04-07 | 9:30–11:00 | TBA | TBA | TBA | Cunlu Zhou |
