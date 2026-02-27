@@ -4,15 +4,17 @@
 **Organizing committee:** Cunlu Zhou (chair), Dave Touchette (co-chair), Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
 
 ## Topics (Winter–Spring 2026)
-[Access the related papers](materials/papers.md)
 
-[Access the related materials](materials/slides)
 - Fermionic Gaussian states / classical simulability / Stabilizer: 1
 - Quantum programming / C*-algebra / ZX-Calculus: 2
 - Quantum advantage / Verification / Factoring RSA / QML: 3
 - Quantum learning / tomography / Hamiltonian learning: 4
 - Quantum Gibbs Sampling / Lindbladians / PDE & ODE: 5
 - Hamiltonian simulation / digital-analog / Trotterization: 6
+
+[Access the related papers](materials/papers.md)
+
+[Access the related materials](materials/slides)
 
 ## Schedule (Winter–Spring 2026)
 
