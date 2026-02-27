@@ -4,3 +4,5 @@ plugins:
 
 title: Quantum Algorithm Research Seminar
 description: Quantum Algorithm Research Seminar (QARS) at Institut quantique
+url: https://iqars.github.io
+baseurl: ""
