@@ -24,7 +24,7 @@
 | 01-27 | 10:30–12:00 | Simon Ducharme : <br> [Mixed to Pure Tomography](./materials/slides/Mixed_to_Pure_Tomography.pdf)| (Postponed) | Marco Armenta : <br> [Stabilizer Formalism](./materials/slides/Stabilizer_Formalism.pdf)| Cunlu Zhou |
 | 02-10 | 9:30–11:00 | Alexandre Leblanc : <br> [Cloning of Encrypted Qubits](./materials/slides/QARS_10février_EncryptedQubitsCanBeCloned.pdf)| Victor Drouin-Touchette : <br> [Quantum Speedup for Abelian Hidden Subgroup Problem](./materials/slides/QARS_Feb_10.pdf)| Olivier Nahman-Lévesque : <br> [Fermionic Gaussian States Part I](./materials/slides/Notes_Simon_MajoranaOperators.pdf) and [Quantum Theorem Proving](./materials/slides/Quantum_theorem_proving.pdf)| Simon Verret |
 | 02-24 | 9:30–11:00 | Elisabeth Mailhot : <br> [Quantum Learning Advantage](./materials/slides/QLearning_advantage.pdf) | Dave Touchette : <br> [Digital Signatures with Classical Shadows](./materials/slides/digital-signature-cl-shadows.pdf)| Olivier Nahman-Lévesque : <br> [Fermionic Gaussian States Part II ]() | Simon Verret |
-| 03-10 | 9:30–11:00 | TBA | TBA | Simon Verret: TBD | Dave Touchette |
+| 03-10 | 9:30–11:00 | TBA | TBA | Simon Verret: <br> [Quantum Impurity]() | Dave Touchette |
 | 03-24 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
 | 04-07 | 9:30–11:00 | TBA | TBA | TBA | Cunlu Zhou |
 | 04-21 | 9:30–11:00 | TBA | TBA | TBA | Josh Cantin |
