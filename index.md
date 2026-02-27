@@ -1,5 +1,3 @@
-# Quantum Algorithm Research Seminar (QARS)
-
 **Room:** D9-2005  
 **Organizing committee:** Cunlu Zhou (chair), Dave Touchette (co-chair), Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
 
