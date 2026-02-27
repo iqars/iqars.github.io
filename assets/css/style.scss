@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+  max-width: 80rem;  /* default is smaller; increase as you like */
+}
+
+table.schedule {
+  table-layout: fixed;
+  width: 100%;
+}
+
+table.schedule th,
+table.schedule td {
+  vertical-align: center;
+  text-align: center;
+  white-space: normal;      /* allow wrapping */
+  overflow-wrap: anywhere;  /* break long links nicely */
+}
+
+/* Left-align the “talk content” columns for readability */
+// table.schedule th:nth-child(3),
+// table.schedule td:nth-child(3),
+// table.schedule th:nth-child(4),
+// table.schedule td:nth-child(4),
+// table.schedule th:nth-child(5),
+// table.schedule td:nth-child(5) {
+//   text-align: left;
+// }
