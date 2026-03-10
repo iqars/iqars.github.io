@@ -79,7 +79,9 @@
       <td>03-10</td>
       <td>9:30–11:00</td>
       <td>Louis Desruisseaux</td>
-      <td>Josh Cantin</td>
+      <td>Josh Cantin:<br>
+        <a href="https://github.com/iqars/iqars.github.io/blob/f6684af75f1d85481ff78f57b81c5ea6b070cf89/materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
+      </td>
       <td>Simon Verret:<br>
         <a href="">Quantum Impurity</a>
       </td>
