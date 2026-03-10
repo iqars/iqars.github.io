@@ -79,10 +79,10 @@
       <td>03-10</td>
       <td>9:30–11:00</td>
       <td>Louis Desruisseaux:<br>
-      <a href="materials/slides/MinimumWeightDecodingColourCodeNPHard.pdf">Minimum Weight Decoding in the Colour Code is NP-hard</a>
+      <a href="./materials/slides/MinimumWeightDecodingColourCodeNPHard.pdf">Minimum Weight Decoding in the Colour Code is NP-hard</a>
       </td>
       <td>Josh Cantin:<br>
-        <a href="materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
+        <a href="./materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
       </td>
       <td>Simon Verret:<br>
         <a href="">Quantum Impurity I</a>
