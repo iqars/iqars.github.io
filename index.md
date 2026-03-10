@@ -78,8 +78,8 @@
     <tr>
       <td>03-10</td>
       <td>9:30–11:00</td>
-      <td>TBA</td>
-      <td>TBA</td>
+      <td>Louis Desruisseaux</td>
+      <td>Josh Cantin</td>
       <td>Simon Verret:<br>
         <a href="">Quantum Impurity</a>
       </td>
