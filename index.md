@@ -78,7 +78,9 @@
     <tr>
       <td>03-10</td>
       <td>9:30–11:00</td>
-      <td>Louis Desruisseaux</td>
+      <td>Louis Desruisseaux
+      <a href="https://github.com/iqars/iqars.github.io/blob/e71fd085e1002f141553fe92240fc62fc70671c3/materials/slides/MinimumWeightDecodingColourCodeNPHard.pdf">Minimum Weight Decoding in the Colour Code is NP-hard</a>
+      </td>
       <td>Josh Cantin:<br>
         <a href="https://github.com/iqars/iqars.github.io/blob/f6684af75f1d85481ff78f57b81c5ea6b070cf89/materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
       </td>
