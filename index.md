@@ -85,7 +85,7 @@
         <a href="https://github.com/iqars/iqars.github.io/blob/f6684af75f1d85481ff78f57b81c5ea6b070cf89/materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
       </td>
       <td>Simon Verret:<br>
-        <a href="">Quantum Impurity</a>
+        <a href="">Quantum Impurity I</a>
       </td>
       <td>Dave Touchette</td>
     </tr>
@@ -94,7 +94,9 @@
       <td>9:30–11:00</td>
       <td>TBA</td>
       <td>TBA</td>
-      <td>TBA</td>
+       <td>Simon Verret:<br>
+        <a href="">Quantum Impurity II</a>
+      </td>
       <td>Josh Cantin</td>
     </tr>
     <tr>
