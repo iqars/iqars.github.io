@@ -92,8 +92,8 @@
     <tr>
       <td>03-24</td>
       <td>9:30–11:00</td>
-      <td>TBA</td>
-      <td>TBA</td>
+      <td>Ludovic Chabot Provencher</td>
+      <td>Maxime Dion</td>
        <td>Simon Verret:<br>
         <a href="">Quantum Impurity II</a>
       </td>
