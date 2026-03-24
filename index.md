@@ -71,7 +71,7 @@
         <a href="./materials/slides/digital-signature-cl-shadows.pdf">Digital Signatures with Classical Shadows</a>
       </td>
       <td>Olivier Nahman-Lévesque:<br>
-        <a href="olivier_original_majorana_fermions.pdf">Fermionic Gaussian States Part II</a>
+        <a href="./materials/slides/olivier_original_majorana_fermions.pdf">Fermionic Gaussian States Part II</a>
       </td>
       <td>Simon Verret</td>
     </tr>
@@ -85,7 +85,7 @@
         <a href="./materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
       </td>
       <td>Simon Verret:<br>
-        <a href="simons_notes_on_olivier_fermionic_states.pdf">Quantum Impurity I</a>
+        <a href="./materials/slides/simons_notes_on_olivier_fermionic_states.pdf">Quantum Impurity I</a>
       </td>
       <td>Dave Touchette</td>
     </tr>
@@ -100,7 +100,7 @@
 Using Pauli Strings</a>
       </td>
        <td>Simon Verret:<br>
-        <a href="simon_impurity_model.pdf">Quantum Impurity II</a>
+        <a href="./materials/slides/simon_impurity_model.pdf">Quantum Impurity II</a>
       </td>
       <td>Josh Cantin</td>
     </tr>
