@@ -85,7 +85,7 @@
         <a href="./materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
       </td>
       <td>Simon Verret:<br>
-        <a href="./materials/slides/simons_notes_on_olivier_fermionic_states.pdf">Quantum Impurity I</a>
+        <a href="./materials/slides/simon_notes_on_olivier_fermionic_states.pdf">Quantum Impurity I</a>
       </td>
       <td>Dave Touchette</td>
     </tr>
