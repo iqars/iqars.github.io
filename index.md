@@ -104,7 +104,7 @@
       <td>9:30–11:00</td>
       <td>TBA</td>
       <td>TBA</td>
-      <td>TBA</td>
+      <td>Marco Armenta & Simon Ducharme: <br> Category Theory </td>
       <td>Cunlu Zhou</td>
     </tr>
     <tr>
@@ -112,16 +112,16 @@
       <td>9:30–11:00</td>
       <td>TBA</td>
       <td>TBA</td>
-      <td>TBA</td>
-      <td>Josh Cantin</td>
+      <td>Josh Cantin: <br> ZX-Calculus </td>
+      <td>Dave Touchette</td>
     </tr>
     <tr>
       <td>05-05</td>
       <td>9:30–11:00</td>
       <td>TBA</td>
       <td>TBA</td>
-      <td>TBA</td>
-      <td>Dave Touchette</td>
+      <td>Maxime Dion & Alexandre Leblanc: <br> Pauli Strings</td>
+      <td>Josh Cantin</td>
     </tr>
   </tbody>
 </table>
