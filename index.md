@@ -110,7 +110,7 @@ Using Pauli Strings</a>
       <td>TBA</td>
       <td>TBA</td>
       <td>Marco Armenta & Simon Ducharme: <br> Category Theory </td>
-      <td>Cunlu Zhou</td>
+      <td>Josh Cantin</td>
     </tr>
     <tr>
       <td>04-21</td>
@@ -126,7 +126,7 @@ Using Pauli Strings</a>
       <td>TBA</td>
       <td>TBA</td>
       <td>Maxime Dion & Alexandre Leblanc: <br> Pauli Strings</td>
-      <td>Josh Cantin</td>
+      <td>Cunlu Zhou</td>
     </tr>
   </tbody>
 </table>
