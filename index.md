@@ -107,8 +107,8 @@ Using Pauli Strings</a>
     <tr>
       <td>04-07</td>
       <td>9:30–11:00</td>
-      <td>TBA</td>
-      <td>TBA</td>
+      <td>Olivier Nahman-Lévesque</td>
+      <td>Cédrick Perron</td>
       <td>Marco Armenta & Simon Ducharme: <br> Category Theory </td>
       <td>Josh Cantin</td>
     </tr>
