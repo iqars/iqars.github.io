@@ -131,7 +131,7 @@ Using Pauli Strings</a>
     <tr>
       <td>05-08</td>
       <td>10:00–11:30</td>
-      <td colspan="3">Guest talk by Zhiyan Ding</td>
+      <td colspan="3">Guest talk by <a href="https://sites.google.com/umich.edu/zhiyan-ding/">Zhiyan Ding</a></td>
       <td>Cunlu Zhou</td>
     </tr>
     <tr>
