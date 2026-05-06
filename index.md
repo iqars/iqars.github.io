@@ -125,9 +125,24 @@ Using Pauli Strings</a>
       <td>9:30–11:00</td>
       <td>TBA</td>
       <td>TBA</td>
-      <td>Maxime Dion & Alexandre Leblanc: <br> Pauli Strings</td>
+      <td>Maxime Dion:<br> Pauli Strings</td>
       <td>Cunlu Zhou</td>
     </tr>
+    <tr>
+      <td>05-08</td>
+      <td>10:00–11:30</td>
+      <td colspan="3">Guest talk by Zhiyan Ding</td>
+      <td>Cunlu Zhou</td>
+    </tr>
+    <tr>
+      <td>05-19</td>
+      <td>9:30–11:00</td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>Maxime Dion and Alexandre Leblanc:<br> Pauli Strings II</td>
+      <td>Cunlu Zhou</td>
+    </tr>
+    
   </tbody>
 </table>
 
