@@ -5,6 +5,11 @@
 
 > **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
 
+<div class="btn-row">
+  <a class="btn-link" href="materials/papers.md">Related papers</a>
+  <a class="btn-link" href="materials/slides">Slides &amp; materials</a>
+</div>
+
 <table class="schedule">
   <colgroup>
     <col style="width: 7.5%;">
@@ -138,6 +143,7 @@ Using Pauli Strings</a>
       <td>NA</td>
       <td>Josh Cantin: <br> 
       <a href="./materials/slides/cantinjt_qars_zx_calculus_1.pdf">ZX Calculus</a>
+      </td>
       <td>Cunlu Zhou</td>
     </tr>
     <tr>
@@ -166,10 +172,6 @@ Using Pauli Strings</a>
 - Quantum learning / tomography / Hamiltonian learning: 4
 - Quantum Gibbs Sampling / Lindbladians / PDE & ODE: 5
 - Hamiltonian simulation / digital-analog / Trotterization: 6
-
-[Access the related papers](materials/papers.md)
-
-[Access the related materials](materials/slides)
 
 ## Contact
 qars.iq@usherbrooke.ca

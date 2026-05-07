@@ -20,6 +20,31 @@ table.schedule td {
   overflow-wrap: anywhere;  /* break long links nicely */
 }
 
+.btn-row {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 1rem 0 1.25rem;
+}
+
+.btn-row a.btn-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid #155799;
+  border-radius: 0.3rem;
+  background-color: #155799;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.btn-row a.btn-link:hover {
+  background-color: #159957;
+  border-color: #159957;
+  color: #fff;
+}
+
 /* Left-align the “talk content” columns for readability */
 // table.schedule th:nth-child(3),
 // table.schedule td:nth-child(3),

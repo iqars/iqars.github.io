@@ -2,7 +2,7 @@
 
 ## Papers and resources
 
-A growing bank of papers and references discussed in (or related to) the seminars, grouped by topic.
+A bank of papers and references discussed in (or related to) the seminars, grouped by topic.
 
 Suggested entry format:
 `- [Title](link) — Author(s), venue/year — *discussed YYYY-MM-DD* (optional note)`
@@ -36,32 +36,32 @@ Suggested entry format:
 
 ### Hamiltonian Simulation
 
-- [Theory of Trotter Error with Commutator Scaling](https://arxiv.org/abs/1912.08854) — Childs, Su, Tran, Wiebe, Zhu (PRX 2021) — *Maxime*
-- [Determining eigenstates and thermal states on a quantum computer using quantum imaginary time evolution](https://arxiv.org/abs/1901.07653) — Motta et al. (Nat. Phys. 2019) — *JF*
-- [Correcting and extending Trotterized quantum many-body dynamics](https://arxiv.org/abs/2502.13784) — Gentinetta et al. (PRX Quantum 2025) — *Alex*
+- [Theory of Trotter Error with Commutator Scaling](https://arxiv.org/abs/1912.08854) — Childs, Su, Tran, Wiebe, Zhu (PRX 2021) 
+- [Determining eigenstates and thermal states on a quantum computer using quantum imaginary time evolution](https://arxiv.org/abs/1901.07653) — Motta et al. (Nat. Phys. 2019) 
+- [Correcting and extending Trotterized quantum many-body dynamics](https://arxiv.org/abs/2502.13784) — Gentinetta et al. (PRX Quantum 2025) 
 - [Making Trotterization Adaptive and Energy-Self-Correcting for NISQ Devices and Beyond](https://arxiv.org/abs/2209.12653) — Zhao et al. (PRX Quantum 2023)
 - [Learning Circuits with Infinite Tensor Networks](https://arxiv.org/abs/2506.02105) — Gibbs, Cincio (2025)
 
 ### Analog & Digital-Analog Quantum Computation
 
 - [Universal Dynamics with Globally Controlled Analog Quantum Simulators](https://arxiv.org/abs/2508.19075) — Hu et al. (2025)
-- [Quantum advantage and stability to errors in analogue quantum simulators](https://arxiv.org/abs/2212.04924) — Trivedi et al. (Nat. Commun. 2024) — *Victor*
-- [Practical quantum advantage in quantum simulation](https://www.nature.com/articles/s41586-022-04940-6) — Daley, Bloch et al. (Nature 2022) — *Victor*
-- [Digital-analog quantum computing of fermion-boson models in superconducting circuits](https://arxiv.org/abs/2308.12040) — Yamamoto et al. (npj QI 2025) — *JP*
-- [Thermalization and criticality on an analogue–digital quantum simulator](https://arxiv.org/abs/2405.17385) — Andersen et al. (Nature 2025) — *JP*
-- [Constructive interference at the edge of quantum ergodic dynamics](https://arxiv.org/abs/2506.10191) — Google Quantum AI et al. (2025) — *JP*
+- [Quantum advantage and stability to errors in analogue quantum simulators](https://arxiv.org/abs/2212.04924) — Trivedi et al. (Nat. Commun. 2024) 
+- [Practical quantum advantage in quantum simulation](https://www.nature.com/articles/s41586-022-04940-6) — Daley, Bloch et al. (Nature 2022) 
+- [Digital-analog quantum computing of fermion-boson models in superconducting circuits](https://arxiv.org/abs/2308.12040) — Yamamoto et al. (npj QI 2025)
+- [Thermalization and criticality on an analogue–digital quantum simulator](https://arxiv.org/abs/2405.17385) — Andersen et al. (Nature 2025)
+- [Constructive interference at the edge of quantum ergodic dynamics](https://arxiv.org/abs/2506.10191) — Google Quantum AI et al. (2025)
 - [A quantum processor based on coherent transport of entangled atom arrays](https://arxiv.org/abs/2112.03923) — Bluvstein et al. (Nature 2022)
 
 ### Tensor Networks for Quantum Computing
 
-- [Tensor networks for quantum computing](https://arxiv.org/abs/2503.08626) — Berezutskii et al. (Nat. Rev. Phys. 2025) — *Dave*
-- [Tensor Network Techniques for Quantum Computation](https://arxiv.org/abs/2503.04423) — Collura et al. (2025) — *Dave*
-- [The density-matrix renormalization group in the age of matrix product states](https://arxiv.org/abs/1008.3477) — Schollwöck (Ann. Phys. 2011) — *Josh* (introductory DMRG reference)
+- [Tensor networks for quantum computing](https://arxiv.org/abs/2503.08626) — Berezutskii et al. (Nat. Rev. Phys. 2025)
+- [Tensor Network Techniques for Quantum Computation](https://arxiv.org/abs/2503.04423) — Collura et al. (2025)
+- [The density-matrix renormalization group in the age of matrix product states](https://arxiv.org/abs/1008.3477) — Schollwöck (Ann. Phys. 2011) (introductory DMRG reference)
 
 ### Quantum Gibbs Sampling
 
-- [Quantum generalizations of Glauber and Metropolis dynamics](https://arxiv.org/abs/2405.20322) — Gilyén, Chen, Doriguello, Kastoryano (2024) — *Simon V*
-- [Local minima in quantum systems](https://arxiv.org/abs/2309.16596) — Chen, Huang, Preskill, Zhou (Nat. Phys. 2025) — *Victor*
+- [Quantum generalizations of Glauber and Metropolis dynamics](https://arxiv.org/abs/2405.20322) — Gilyén, Chen, Doriguello, Kastoryano (2024)
+- [Local minima in quantum systems](https://arxiv.org/abs/2309.16596) — Chen, Huang, Preskill, Zhou (Nat. Phys. 2025) 
 - [Dissipative Preparation of Many-Body Quantum States: Towards Practical Quantum Advantage](https://arxiv.org/abs/2505.21308) — Lin (2025)
 - [End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple](https://arxiv.org/abs/2508.05703) — Ding, Zhan, Preskill, Lin (2025)
 - [Scaling Quantum Algorithms via Dissipation: Avoiding Barren Plateaus](https://arxiv.org/abs/2507.02043) — Zapusek, Rojkov, Reiter (2025)
@@ -86,14 +86,14 @@ Suggested entry format:
 
 ### Optimization
 
-- [Optimization by Decoded Quantum Interferometry](https://arxiv.org/abs/2408.08292) — Jordan, Shutty, Wootters et al. (Nature 2025) — *Yohan*
-- [Lower bounding the MaxCut of high girth 3-regular graphs using the QAOA](https://arxiv.org/abs/2503.12789) — *Maxime*
-- [Towards large-scale quantum optimization solvers with few qubits](https://arxiv.org/abs/2401.09421) — Sciorilli, Borges, Patti et al. (Nat. Commun. 2025) — *Cédrick*
-- [(Sub)Exponential Quantum Speedup for Optimization](https://arxiv.org/abs/2504.14841) — Leng et al. (2025) — *CZ*
+- [Optimization by Decoded Quantum Interferometry](https://arxiv.org/abs/2408.08292) — Jordan, Shutty, Wootters et al. (Nature 2025) 
+- [Lower bounding the MaxCut of high girth 3-regular graphs using the QAOA](https://arxiv.org/abs/2503.12789)
+- [Towards large-scale quantum optimization solvers with few qubits](https://arxiv.org/abs/2401.09421) — Sciorilli, Borges, Patti et al. (Nat. Commun. 2025) 
+- [(Sub)Exponential Quantum Speedup for Optimization](https://arxiv.org/abs/2504.14841) — Leng et al. (2025) 
 
 ### Grand Unification of Algorithms
 
-- [A Grand Unification of Quantum Algorithms](https://arxiv.org/abs/2105.02859) — Martyn, Rossi, Tan, Chuang (PRX Quantum 2021) — *Dave*
+- [A Grand Unification of Quantum Algorithms](https://arxiv.org/abs/2105.02859) — Martyn, Rossi, Tan, Chuang (PRX Quantum 2021)
 
 ---
 
@@ -109,7 +109,7 @@ Suggested entry format:
 
 ### Complexity
 
-- [A Brief Introduction to Quantum Query Complexity](https://arxiv.org/abs/2508.08852) — Hamoudi (2025) — *Simon D*
+- [A Brief Introduction to Quantum Query Complexity](https://arxiv.org/abs/2508.08852) — Hamoudi (2025)
 - [Strongly interacting fermions are non-trivial yet non-glassy](https://arxiv.org/abs/2408.15699) — Anschuetz et al. (2024)
 
 ### Nonlocal Games & Interactive Proofs
@@ -148,17 +148,17 @@ Suggested entry format:
 
 ### Quantum Programming
 
-- [The Structure and Interpretation of Quantum Programs I: Foundations](https://arxiv.org/abs/2509.04527) — Wakeham (2025) — *Josh*
+- [The Structure and Interpretation of Quantum Programs I: Foundations](https://arxiv.org/abs/2509.04527) — Wakeham (2025)
 
 ### Quantum Memory
 
-- [A quantum random access memory (QRAM) using a polynomial encoding of binary strings](https://arxiv.org/abs/2408.16794) — Mukhopadhyay (Sci. Rep. 2025) — *Christopher*
+- [A quantum random access memory (QRAM) using a polynomial encoding of binary strings](https://arxiv.org/abs/2408.16794) — Mukhopadhyay (Sci. Rep. 2025) — 
 
 ### From Noisy to Fault-Tolerant
 
-- [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/abs/quant-ph/9701001) — Bennett, Bernstein, Brassard, Vazirani (SIAM J. Comput. 1997) — *Antoine*
-- [Quantum-Centric Algorithm for Sample-Based Krylov Diagonalization](https://arxiv.org/abs/2501.09702) — Yu et al. (2025) — *Simon V*
-- [Using Quantum Metrological Bounds in Quantum Error Correction: A Simple Proof of the Approximate Eastin-Knill Theorem](https://arxiv.org/abs/2004.11893) — Kubica, Demkowicz-Dobrzański (PRL 2021) — *Lautaro*
+- [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/abs/quant-ph/9701001) — Bennett, Bernstein, Brassard, Vazirani (SIAM J. Comput. 1997)
+- [Quantum-Centric Algorithm for Sample-Based Krylov Diagonalization](https://arxiv.org/abs/2501.09702) — Yu et al. (2025) 
+- [Using Quantum Metrological Bounds in Quantum Error Correction: A Simple Proof of the Approximate Eastin-Knill Theorem](https://arxiv.org/abs/2004.11893) — Kubica, Demkowicz-Dobrzański (PRL 2021) 
 
 ---
 
