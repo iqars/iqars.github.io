@@ -108,24 +108,36 @@ Using Pauli Strings</a>
       <td>04-07</td>
       <td>9:30–11:00</td>
       <td>Olivier Nahman-Lévesque</td>
-      <td>Cédrick Perron</td>
-      <td>Marco Armenta & Simon Ducharme: <br> Category Theory </td>
+      <td>Cédrick Perron:<br>
+      <a href="./materials/slides/QARS-5-min-CP-April-07.pdf">Clifford Transformations to Reduce Entanglement</a>
+      </td>
+      <td>Marco Armenta & Simon Ducharme: <br> 
+      <a href="./materials/slides/slides.pdf">Category Theory,</a>
+      <a href="./materials/slides/Category Theory.pdf"> Extended notes</a>
+      </td>
       <td>Josh Cantin</td>
     </tr>
     <tr>
       <td>04-21</td>
       <td>9:30–11:00</td>
-      <td>TBA</td>
-      <td>TBA</td>
-      <td>Josh Cantin: <br> ZX-Calculus </td>
+      <td>Jean Frederic Laprade:<br>
+      <a href="./materials/slides/star_earlyFTQC.pdf">Error Correction in early-FTQC Regime</a>
+      </td>
+      <td>Gurleen Padda</td>
+      <td>Josh Cantin: <br> 
+      <a href="./materials/slides/cantinjt_qars_zx_calculus_1.pdf">ZX Calculus</a>
+      </td>
       <td>Dave Touchette</td>
     </tr>
     <tr>
       <td>05-05</td>
       <td>9:30–11:00</td>
-      <td>TBA</td>
-      <td>TBA</td>
-      <td>Maxime Dion:<br> Pauli Strings</td>
+      <td>Cunlu Zhou: <br>
+      <a href="./materials/slides/QARS-5min-czhou.pdf">Efficient Quantum Thermal and Ground State Preparation</a>
+      </td>
+      <td>NA</td>
+      <td>Josh Cantin: <br> 
+      <a href="./materials/slides/cantinjt_qars_zx_calculus_1.pdf">ZX Calculus</a>
       <td>Cunlu Zhou</td>
     </tr>
     <tr>
@@ -140,7 +152,7 @@ Using Pauli Strings</a>
       <td>TBA</td>
       <td>TBA</td>
       <td>Maxime Dion and Alexandre Leblanc:<br> Pauli Strings II</td>
-      <td>Cunlu Zhou</td>
+      <td>Simon Verret</td>
     </tr>
     
   </tbody>
