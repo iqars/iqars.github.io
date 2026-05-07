@@ -1,6 +1,12 @@
 **Room:** D9-2005  
 **Organizing committee:** Cunlu Zhou, Dave Touchette, Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
 
+## Topics (Winter–Spring 2026)
+
+- Fermionic Gaussian states / Stabilizers / Classical simulability
+- Quantum programming / C*-algebra / ZX-Calculus
+
+
 ## Schedule (Winter–Spring 2026)
 
 > **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
@@ -60,9 +66,10 @@
         <a href="./materials/slides/QARS_Feb_10.pdf">Quantum Speedup for Abelian Hidden Subgroup Problem</a>
       </td>
       <td>Olivier Nahman-Lévesque:<br>
-        <a href="./materials/slides/Notes_Simon_MajoranaOperators.pdf">Fermionic Gaussian States Part I</a>
+        <a href="./materials/slides/olivier_original_majorana_fermions.pdf">Fermionic Gaussian States Part I</a>, 
+        <a href="./materials/slides/Notes_Simon_MajoranaOperators.pdf">Simon V's Notes</a>, 
         and
-        <a href="./materials/slides/Quantum_theorem_proving.pdf">Quantum Theorem Proving</a>
+        <a href="./materials/slides/Quantum_theorem_proving.pdf">Quantum Automated Theorem Proving</a>
       </td>
       <td>Simon Verret</td>
     </tr>
@@ -76,7 +83,8 @@
         <a href="./materials/slides/digital-signature-cl-shadows.pdf">Digital Signatures with Classical Shadows</a>
       </td>
       <td>Olivier Nahman-Lévesque:<br>
-        <a href="./materials/slides/olivier_original_majorana_fermions.pdf">Fermionic Gaussian States Part II</a>
+        <a href="./materials/slides/olivier_original_majorana_fermions.pdf">Fermionic Gaussian States Part II</a>, 
+        <a href="./materials/slides/simon_notes_on_olivier_fermionic_states.pdf">Simon V's Notes</a>
       </td>
       <td>Simon Verret</td>
     </tr>
@@ -90,7 +98,7 @@
         <a href="./materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
       </td>
       <td>Simon Verret:<br>
-        <a href="./materials/slides/simon_notes_on_olivier_fermionic_states.pdf">Quantum Impurity I</a>
+        <a href="./materials/slides/simon_impurity_model.pdf">Quantum Impurity I</a>
       </td>
       <td>Dave Touchette</td>
     </tr>
@@ -141,9 +149,7 @@ Using Pauli Strings</a>
       <a href="./materials/slides/QARS-5min-czhou.pdf">Efficient Quantum Thermal and Ground State Preparation</a>
       </td>
       <td>NA</td>
-      <td>Josh Cantin: <br> 
-      <a href="./materials/slides/cantinjt_qars_zx_calculus_1.pdf">ZX Calculus</a>
-      </td>
+      <td>Maxime Dion: <br> Pauli Strings I</td>
       <td>Cunlu Zhou</td>
     </tr>
     <tr>
@@ -163,15 +169,6 @@ Using Pauli Strings</a>
     
   </tbody>
 </table>
-
-## Topics (Winter–Spring 2026)
-
-- Fermionic Gaussian states / classical simulability / Stabilizer: 1
-- Quantum programming / C*-algebra / ZX-Calculus: 2
-- Quantum advantage / Verification / Factoring RSA / QML: 3
-- Quantum learning / tomography / Hamiltonian learning: 4
-- Quantum Gibbs Sampling / Lindbladians / PDE & ODE: 5
-- Hamiltonian simulation / digital-analog / Trotterization: 6
 
 ## Contact
 qars.iq@usherbrooke.ca
