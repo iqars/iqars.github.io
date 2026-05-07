@@ -6,7 +6,7 @@
 > **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
 
 <div class="btn-row">
-  <a class="btn-link" href="materials/papers.md">Related papers</a>
+  <a class="btn-link" href="materials/papers.html">Related papers</a>
   <a class="btn-link" href="materials/slides">Slides &amp; materials</a>
 </div>
 
