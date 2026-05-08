@@ -136,7 +136,9 @@ Using Pauli Strings</a>
       <td>Jean Frederic Laprade:<br>
       <a href="./materials/slides/star_earlyFTQC.pdf">Error Correction in early-FTQC Regime</a>
       </td>
-      <td>Gurleen Padda</td>
+      <td>Gurleen Padda: <br> 
+      <a href="./materials/slides/qars_5_min (1).pdf">Benchmarking of Quantum Computers Using Nonlocal Game Strategies</a>
+      </td>
       <td>Josh Cantin: <br> 
       <a href="./materials/slides/cantinjt_qars_zx_calculus_1.pdf">ZX Calculus</a>
       </td>
