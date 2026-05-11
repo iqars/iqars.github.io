@@ -120,7 +120,9 @@ Using Pauli Strings</a>
     <tr>
       <td>04-07</td>
       <td>9:30–11:00</td>
-      <td>Olivier Nahman-Lévesque</td>
+      <td>Olivier Nahman-Lévesque:<br>
+      <a href="./materials/slides/Schnorr_sieving.pdf">Integer Factorization via Tensor-network Schnorr's sieving</a>
+      </td>
       <td>Cédrick Perron:<br>
       <a href="./materials/slides/QARS-5-min-CP-April-07.pdf">Clifford Transformations to Reduce Entanglement</a>
       </td>
