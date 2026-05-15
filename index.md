@@ -165,8 +165,9 @@ Using Pauli Strings</a>
     <tr>
       <td>05-19</td>
       <td>9:30–11:00</td>
-      <td>TBA</td>
-      <td>TBA</td>
+      <td>Simon Verret:<br>
+      <a href="http://arxiv.org/abs/2604.07639">Exponential quantum advantage in processing massive classical data</a></td>
+      <td>Ludovic Chabot Provencher</td>
       <td>Maxime Dion and Alexandre Leblanc:<br> Pauli Strings II</td>
       <td>Simon Verret</td>
     </tr>
