@@ -9,6 +9,11 @@ permalink: /
 
 **Organizing committee:** Cunlu Zhou, Dave Touchette, Josh Cantin, Mouheymen Khamadja
 
+<div class="btn-row">
+  <a class="btn-link" href="{{ '/materials/papers.html' | relative_url }}">Research Paper Collection</a>
+  <a class="btn-link" href="{{ '/materials/2026-fall/' | relative_url }}">Fall 2026 Materials</a>
+</div>
+
 ## Topics (Fall 2026)
 
 <div class="research-topics" markdown="1">
@@ -38,19 +43,11 @@ permalink: /
 
 </aside>
 
-<div class="btn-row">
-  <a class="btn-link" href="{{ '/materials/papers.html' | relative_url }}">Research Paper Collection</a>
-  <a class="btn-link" href="{{ '/materials/2026-fall/' | relative_url }}">Fall 2026 materials</a>
-</div>
-
 ## Schedule (Fall 2026)
 
 > **Note:** The October 16 organizational meeting is **13:30–14:30**. All remaining meetings are on **Fridays, 13:30–15:00**, every two weeks from October 30 through December 11.
 
-Two five-minute presentations are planned for each regular seminar meeting; unconfirmed presenters are marked TBD.
-
-<p id="schedule-scroll-hint" class="schedule-hint">On small screens, scroll the schedule horizontally to see all columns.</p>
-<div class="schedule-scroll" role="region" aria-label="Fall 2026 schedule" aria-describedby="schedule-scroll-hint" tabindex="0">
+<div class="schedule-scroll" role="region" aria-label="Fall 2026 schedule" tabindex="0">
 <table class="schedule">
   <colgroup>
     <col style="width: 12.5%;">
