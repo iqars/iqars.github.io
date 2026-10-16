@@ -19,3 +19,4 @@ exclude:
   - AGENTS.md
   - README.md
   - scripts
+  - docs
