@@ -19,6 +19,10 @@ needed and approved.
   Its `README.md` generates `/materials/slides/index.html` and lists PDFs.
 - `materials/2026-fall/`: Fall 2026 materials and their landing page.
 - `scripts/check_links.py`: Python standard library check of built local links.
+- `docs/research-paper-inventory-before.json`: the original bibliography audit
+  inventory, including duplicate entries; retain it for comparison.
+- `docs/research-paper-collection-review.md`: reorganization, source checks,
+  citation corrections, and validation report. `docs/` is excluded from the site.
 
 ## Update the current semester
 
@@ -60,6 +64,28 @@ This uses ordinary Jekyll pages, with no semester-specific layout changes.
   parentheses, or accents. Existing links may be bookmarked externally.
 - Add shared references to `materials/papers.md` using its established topic
   headings and citation format. Do not duplicate the collection per semester.
+- The collection has seven main categories: Quantum Algorithms & Optimization;
+  Quantum Simulation & Many-Body Physics; Dissipative Quantum Algorithms & Open
+  Systems; Quantum Learning, Tomography & Machine Learning; Quantum Complexity &
+  Computational Advantage; Classical Simulability, Entanglement & Randomness;
+  and Quantum Computing Architectures & Fault Tolerance. Give each paper one
+  primary entry, identified by arXiv ID or DOI. Use internal links for any useful
+  cross-references instead of repeating bibliography entries.
+- Suggested entry format (maintainer guidance, not public page content):
+
+  ```markdown
+  - <span id="paper-identifier"></span>**[Paper Title](URL)** <span class="paper-meta">— Author(s) (Venue, Year)</span><br>
+    <span class="paper-description">Optional concise contribution and limitations.</span>
+  ```
+
+  Use full author names for up to three authors, or the first full name plus
+  `et al.` for four or more. Prefer verified publication metadata and publication
+  year; cite `(arXiv, Year)` when only the preprint record is confirmed. Sort
+  approximately newest first within each subtopic. Preserve useful notes such as
+  `discussed YYYY-MM-DD`, but add discussion dates only with explicit evidence.
+  Verify new metadata against arXiv, official proceedings, publishers, or DOI
+  registration records; report unresolved fields rather than inventing them.
+  Preserve paper anchors and the legacy section-anchor aliases when reorganizing.
 - Use Liquid URLs in Markdown and HTML, for example
   `[Slides]({{ '/materials/2026-fall/example.pdf' | relative_url }})`.
   Preserve existing external paper URLs and presentation titles.
@@ -97,6 +123,7 @@ credentials, caches, or backup files to Git.
 ## Link preservation and change control
 
 Preserve `/materials/papers.html`, `/materials/slides/`, all existing presentation
-URLs, and published archive permalinks. Keep shared navigation on every rendered
+URLs, and published archive permalinks. Keep Current Semester / Research Papers /
+Archive navigation on every rendered
 content page. Do not delete existing seminar information or materials. Work on
 a separate branch. Do not commit, push, merge, or deploy without user approval.

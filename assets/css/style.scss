@@ -87,3 +87,76 @@ table.schedule td {
     padding: 0.5rem;
   }
 }
+
+/* Compact preliminary reading list, using the existing Cayman palette. */
+.research-topics h3 {
+  margin-top: 1.5rem;
+  font-size: 1.15em;
+}
+
+.research-topics ol {
+  padding-left: 1.5rem;
+}
+
+.research-topics li {
+  margin-bottom: 0.85rem;
+}
+
+.research-topics .paper-summary {
+  font-size: 0.95em;
+}
+
+.research-topics .paper-format {
+  color: #606c71;
+  font-size: 0.9em;
+}
+
+.optional-discussion {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eff0f1;
+}
+
+.optional-discussion h3 {
+  margin-top: 0;
+}
+
+/* Shared bibliography: compact entries and a small topic index. */
+.paper-collection ul {
+  padding-left: 1.25rem;
+}
+
+.paper-collection li {
+  margin-bottom: 0.75rem;
+}
+
+.paper-meta,
+.paper-note {
+  color: #606c71;
+  font-size: 0.9em;
+}
+
+.paper-description {
+  font-size: 0.95em;
+}
+
+.paper-toc ol {
+  columns: 2;
+  column-gap: 2rem;
+  padding-left: 1.5rem;
+}
+
+.paper-toc li {
+  break-inside: avoid;
+  margin-bottom: 0.4rem;
+}
+
+.paper-collection [id] {
+  scroll-margin-top: 1rem;
+}
+
+@media screen and (max-width: 42em) {
+  .paper-toc ol {
+    columns: 1;
+  }
+}
