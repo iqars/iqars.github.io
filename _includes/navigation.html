@@ -1,0 +1,4 @@
+<nav class="semester-nav" aria-label="Seminar navigation">
+  <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Current semester</a>
+  <a href="{{ '/archive/' | relative_url }}"{% if page.url == '/archive/' %} aria-current="page"{% elsif page.archived %} aria-current="true"{% endif %}>Archive</a>
+</nav>

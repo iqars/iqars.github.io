@@ -1,179 +1,93 @@
-**Room:** D9-2005  
-**Organizing committee:** Cunlu Zhou, Dave Touchette, Simon Verret, Josh Cantin, Alexandre Leblanc, Elisabeth Mailhot 
+---
+title: Quantum Algorithm Research Seminar
+permalink: /
+---
 
-## Topics (Winter–Spring 2026)
+# Fall 2026
 
-- Fermionic Gaussian states / Stabilizers / Classical simulability
-- Quantum programming / C*-algebra / ZX-Calculus
+**Location / room:** D9-2005
 
+**Organizing committee:** Cunlu Zhou, Dave Touchette, Simon Verret, Josh Cantin
 
-## Schedule (Winter–Spring 2026)
+## Topics (Fall 2026)
 
-> **Note:** January meetings are **10:30–12:00**. From February onward, meetings are **9:30–11:00**.
+To be announced (TBA).
+
+## Schedule (Fall 2026)
+
+> **Note:** The first meeting is on **Friday, October 16, 13:30–14:30**. The remaining meetings are on **Thursdays, 15:00–16:30**, every two weeks from October 29 through December 10.
 
 <div class="btn-row">
-  <a class="btn-link" href="materials/papers.html">Related papers</a>
-  <a class="btn-link" href="materials/slides">Slides &amp; materials</a>
+  <a class="btn-link" href="{{ '/materials/papers.html' | relative_url }}">Related papers</a>
+  <a class="btn-link" href="{{ '/materials/2026-fall/' | relative_url }}">Fall 2026 materials</a>
 </div>
 
+<p id="schedule-scroll-hint" class="schedule-hint">On small screens, scroll the schedule horizontally to see all columns.</p>
+<div class="schedule-scroll" role="region" aria-label="Fall 2026 schedule" aria-describedby="schedule-scroll-hint" tabindex="0">
 <table class="schedule">
   <colgroup>
-    <col style="width: 7.5%;">
     <col style="width: 12.5%;">
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-    <col style="width: 25%;">
+    <col style="width: 12.5%;">
+    <col style="width: 18%;">
+    <col style="width: 18%;">
+    <col style="width: 24%;">
     <col style="width: 15%;">
   </colgroup>
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Time</th>
-      <th>5-min presentation #1</th>
-      <th>5-min presentation #2</th>
-      <th>Tutorial + Research Presentation</th>
-      <th>Moderator</th>
+      <th scope="col">Date</th>
+      <th scope="col">Time</th>
+      <th scope="col">5-min presentation #1</th>
+      <th scope="col">5-min presentation #2</th>
+      <th scope="col">Tutorial + Research Presentation</th>
+      <th scope="col">Moderator</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>01-13</td>
-      <td>11:00–12:00</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><time datetime="2026-10-16">Friday, October 16</time></td>
+      <td>13:30–14:30</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
       <td>Cunlu Zhou</td>
     </tr>
     <tr>
-      <td>01-27</td>
-      <td>10:30–12:00</td>
-      <td>Simon Ducharme:<br>
-        <a href="./materials/slides/Mixed_to_Pure_Tomography.pdf">Mixed to Pure Tomography</a>
-      </td>
-      <td>(Postponed)</td>
-      <td>Marco Armenta:<br>
-        <a href="./materials/slides/Stabilizer_Formalism.pdf">Stabilizer Formalism</a>
-      </td>
-      <td>Cunlu Zhou</td>
+      <td><time datetime="2026-10-29">Thursday, October 29</time></td>
+      <td>15:00–16:30</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
     </tr>
     <tr>
-      <td>02-10</td>
-      <td>9:30–11:00</td>
-      <td>Alexandre Leblanc:<br>
-        <a href="./materials/slides/QARS_10février_EncryptedQubitsCanBeCloned.pdf">Cloning of Encrypted Qubits</a>
-      </td>
-      <td>Victor Drouin-Touchette:<br>
-        <a href="./materials/slides/QARS_Feb_10.pdf">Quantum Speedup for Abelian Hidden Subgroup Problem</a>
-      </td>
-      <td>Olivier Nahman-Lévesque:<br>
-        <a href="./materials/slides/olivier_original_majorana_fermions.pdf">Fermionic Gaussian States Part I</a>, 
-        <a href="./materials/slides/Notes_Simon_MajoranaOperators.pdf">Simon V's Notes</a>, 
-        and
-        <a href="./materials/slides/Quantum_theorem_proving.pdf">Quantum Automated Theorem Proving</a>
-      </td>
-      <td>Simon Verret</td>
+      <td><time datetime="2026-11-12">Thursday, November 12</time></td>
+      <td>15:00–16:30</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
     </tr>
     <tr>
-      <td>02-24</td>
-      <td>9:30–11:00</td>
-      <td>Elisabeth Mailhot:<br>
-        <a href="./materials/slides/QLearning_advantage.pdf">Quantum Learning Advantage</a>
-      </td>
-      <td>Dave Touchette:<br>
-        <a href="./materials/slides/digital-signature-cl-shadows.pdf">Digital Signatures with Classical Shadows</a>
-      </td>
-      <td>Olivier Nahman-Lévesque:<br>
-        <a href="./materials/slides/olivier_original_majorana_fermions.pdf">Fermionic Gaussian States Part II</a>, 
-        <a href="./materials/slides/simon_notes_on_olivier_fermionic_states.pdf">Simon V's Notes</a>
-      </td>
-      <td>Simon Verret</td>
+      <td><time datetime="2026-11-26">Thursday, November 26</time></td>
+      <td>15:00–16:30</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
     </tr>
     <tr>
-      <td>03-10</td>
-      <td>9:30–11:00</td>
-      <td>Louis Desruisseaux:<br>
-      <a href="./materials/slides/MinimumWeightDecodingColourCodeNPHard.pdf">Minimum Weight Decoding in the Colour Code is NP-hard</a>
-      </td>
-      <td>Josh Cantin:<br>
-        <a href="./materials/slides/ExperimentalCloneQubit.pdf">Experimental demonstration that qubits can be cloned at will</a>
-      </td>
-      <td>Simon Verret:<br>
-        <a href="./materials/slides/simon_impurity_model.pdf">Quantum Impurity I</a>
-      </td>
-      <td>Dave Touchette</td>
+      <td><time datetime="2026-12-10">Thursday, December 10</time></td>
+      <td>15:00–16:30</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
     </tr>
-    <tr>
-      <td>03-24</td>
-      <td>9:30–11:00</td>
-      <td>Ludovic Chabot Provencher:<br>
-        <a href="./materials/slides/magicpaper.pdf"> The unbearable hardness of deciding about magic</a>
-      </td>
-      <td>Maxime Dion:<br>
-        <a href="./materials/slides/5min_slide_Maxime.pdf"> Optimally Generating 𝔰𝔲⁡(2𝑁)
-Using Pauli Strings</a>
-      </td>
-       <td>Simon Verret:<br>
-        <a href="./materials/slides/simon_impurity_model.pdf">Quantum Impurity II</a>
-      </td>
-      <td>Josh Cantin</td>
-    </tr>
-    <tr>
-      <td>04-07</td>
-      <td>9:30–11:00</td>
-      <td>Olivier Nahman-Lévesque:<br>
-      <a href="./materials/slides/Schnorr_sieving.pdf">Integer Factorization via Tensor-network Schnorr's sieving</a>
-      </td>
-      <td>Cédrick Perron:<br>
-      <a href="./materials/slides/QARS-5-min-CP-April-07.pdf">Clifford Transformations to Reduce Entanglement</a>
-      </td>
-      <td>Marco Armenta & Simon Ducharme: <br> 
-      <a href="./materials/slides/slides.pdf">Category Theory,</a>
-      <a href="./materials/slides/Category Theory.pdf"> Extended notes</a>
-      </td>
-      <td>Josh Cantin</td>
-    </tr>
-    <tr>
-      <td>04-21</td>
-      <td>9:30–11:00</td>
-      <td>Jean Frederic Laprade:<br>
-      <a href="./materials/slides/star_earlyFTQC.pdf">Error Correction in early-FTQC Regime</a>
-      </td>
-      <td>Gurleen Padda: <br> 
-      <a href="./materials/slides/qars_5_min (1).pdf">Benchmarking of Quantum Computers Using Nonlocal Game Strategies</a>
-      </td>
-      <td>Josh Cantin: <br> 
-      <a href="./materials/slides/cantinjt_qars_zx_calculus_1.pdf">ZX Calculus</a>
-      </td>
-      <td>Dave Touchette</td>
-    </tr>
-    <tr>
-      <td>05-05</td>
-      <td>9:30–11:00</td>
-      <td>Cunlu Zhou: <br>
-      <a href="./materials/slides/QARS-5min-czhou.pdf">Efficient Quantum Thermal and Ground State Preparation</a>
-      </td>
-      <td>NA</td>
-      <td>Maxime Dion: <br> Pauli Strings I</td>
-      <td>Cunlu Zhou</td>
-    </tr>
-    <tr>
-      <td>05-08</td>
-      <td>10:00–11:30</td>
-      <td colspan="3">Guest talk by <a href="https://sites.google.com/umich.edu/zhiyan-ding/">Zhiyan Ding</a></td>
-      <td>Cunlu Zhou</td>
-    </tr>
-    <tr>
-      <td>05-19</td>
-      <td>9:30–11:00</td>
-      <td>Simon Verret:<br>
-      <a href="http://arxiv.org/abs/2604.07639">Exponential quantum advantage in processing massive classical data</a></td>
-      <td>Ludovic Chabot Provencher</td>
-      <td>Maxime Dion and Alexandre Leblanc:<br> Pauli Strings II</td>
-      <td>Simon Verret</td>
-    </tr>
-    
   </tbody>
 </table>
+</div>
 
 ## Contact
-qars.iq@usherbrooke.ca
+
+[qars.iq@usherbrooke.ca](mailto:qars.iq@usherbrooke.ca)

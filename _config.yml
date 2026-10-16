@@ -6,3 +6,16 @@ title: Quantum Algorithm Research Seminar
 description: Quantum Algorithm Research Seminar (QARS) at Institut quantique
 url: https://iqars.github.io
 baseurl: ""
+
+# Share navigation while keeping the upstream Cayman layout.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: seminar
+
+# Contributor documentation and validation scripts are not public pages.
+exclude:
+  - AGENTS.md
+  - README.md
+  - scripts

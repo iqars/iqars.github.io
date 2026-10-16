@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .main-content {
-  max-width: 80rem;  /* default is smaller; increase as you like */
+  max-width: 80rem;  /* Keep the existing wider content area. */
 }
 
 table.schedule {
@@ -14,7 +14,7 @@ table.schedule {
 
 table.schedule th,
 table.schedule td {
-  vertical-align: center;
+  vertical-align: top;
   text-align: center;
   white-space: normal;      /* allow wrapping */
   overflow-wrap: anywhere;  /* break long links nicely */
@@ -45,12 +45,45 @@ table.schedule td {
   color: #fff;
 }
 
-/* Left-align the “talk content” columns for readability */
-// table.schedule th:nth-child(3),
-// table.schedule td:nth-child(3),
-// table.schedule th:nth-child(4),
-// table.schedule td:nth-child(4),
-// table.schedule th:nth-child(5),
-// table.schedule td:nth-child(5) {
-//   text-align: left;
-// }
+.semester-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #eff0f1;
+}
+
+.semester-nav [aria-current] {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.schedule-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.main-content table.schedule {
+  display: table;
+  min-width: 52rem;
+}
+
+.schedule-hint {
+  font-size: 0.9rem;
+}
+
+.schedule-scroll:focus-visible,
+.semester-nav a:focus-visible,
+.btn-row a.btn-link:focus-visible {
+  outline: 3px solid #155799;
+  outline-offset: 3px;
+}
+
+@media screen and (max-width: 42em) {
+  .main-content table.schedule th,
+  .main-content table.schedule td {
+    padding: 0.5rem;
+  }
+}
