@@ -80,17 +80,17 @@ permalink: /
       <td><time datetime="2026-10-30">Friday, October 30</time></td>
       <td>13:30–15:00</td>
       <td>Philippe Karan</td>
-      <td>Mouheymen Khamadja</td>
+      <td>Lautaro Labarca</td>
       <td>Dave Touchette:<br>Introduction to Quantum Complexity Theory</td>
-      <td>Cunlu Zhou</td>
+      <td>Josh Cantin</td>
     </tr>
     <tr>
       <td><time datetime="2026-11-13">Friday, November 13</time></td>
       <td>13:30–15:00</td>
+      <td>Mouheymen Khamadja</td>
       <td>TBD</td>
-      <td>TBD</td>
-      <td>Simon Ducharme (?):<br>Advanced Complexity: QMA and Local Hamiltonian Problems</td>
-      <td>Josh Cantin</td>
+      <td>Simon Ducharme:<br>Advanced Complexity: QMA and Local Hamiltonian Problems</td>
+      <td>Dave Touchette</td>
     </tr>
     <tr>
       <td><time datetime="2026-11-27">Friday, November 27</time></td>
@@ -98,7 +98,7 @@ permalink: /
       <td>TBD</td>
       <td>TBD</td>
       <td>Ayana Sarkar and Olivier Nahman-Lévesque:<br>Efficient Classical Simulation of Quantum Circuits — Part I</td>
-      <td>Dave Touchette</td>
+      <td>Josh Cantin</td>
     </tr>
     <tr>
       <td><time datetime="2026-12-11">Friday, December 11</time></td>
