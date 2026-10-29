@@ -79,7 +79,7 @@ permalink: /
     <tr>
       <td><time datetime="2026-10-30">Friday, October 30</time></td>
       <td>13:30–15:00</td>
-      <td>Philippe Karan</td>
+      <td>TBD</td>
       <td>Lautaro Labarca</td>
       <td>Dave Touchette:<br>Introduction to Quantum Complexity Theory</td>
       <td>Josh Cantin</td>
@@ -88,7 +88,7 @@ permalink: /
       <td><time datetime="2026-11-13">Friday, November 13</time></td>
       <td>13:30–15:00</td>
       <td>Mouheymen Khamadja</td>
-      <td>TBD</td>
+      <td>Philippe Karan</td>
       <td>Simon Ducharme:<br>Advanced Complexity: QMA and Local Hamiltonian Problems</td>
       <td>Dave Touchette</td>
     </tr>
