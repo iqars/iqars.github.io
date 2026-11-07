@@ -86,7 +86,7 @@ permalink: /
     </tr>
     <tr>
       <td><time datetime="2026-11-13">Friday, November 13</time></td>
-      <td>13:30–15:00</td>
+      <td>14:00–15:30</td>
       <td>Mouheymen Khamadja</td>
       <td>Philippe Karan</td>
       <td>Simon Ducharme:<br>Advanced Complexity: QMA and Local Hamiltonian Problems</td>
