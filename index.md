@@ -95,15 +95,15 @@ permalink: /
     <tr>
       <td><time datetime="2026-11-27">Friday, November 27</time></td>
       <td>13:30–15:00</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Hamna Aslam</td>
+      <td>Victor Drouin-Touchette</td>
       <td>Ayana Sarkar and Olivier Nahman-Lévesque:<br>Efficient Classical Simulation of Quantum Circuits — Part I</td>
       <td>Josh Cantin</td>
     </tr>
     <tr>
       <td><time datetime="2026-12-11">Friday, December 11</time></td>
       <td>13:30–15:00</td>
-      <td>TBD</td>
+      <td>Gurleen Padda</td>
       <td>TBD</td>
       <td>Ayana Sarkar and Olivier Nahman-Lévesque:<br>Efficient Classical Simulation of Quantum Circuits — Part II</td>
       <td>Cunlu Zhou</td>
