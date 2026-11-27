@@ -89,7 +89,7 @@ permalink: /
       <td>14:00–15:30</td>
       <td>Mouheymen Khamadja</td>
       <td>Philippe Karan</td>
-      <td>Simon Ducharme:<br>Advanced Complexity: QMA and Local Hamiltonian Problems</td>
+      <td>Simon Ducharme:<br><a href="{{ '/materials/2026-fall/QMA_Simon_ducharme.pdf' | relative_url }}">Advanced Complexity: QMA and Local Hamiltonian Problems</a></td>
       <td>Dave Touchette</td>
     </tr>
     <tr>
