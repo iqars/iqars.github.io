@@ -104,7 +104,7 @@ permalink: /
       <td><time datetime="2026-12-11">Friday, December 11</time></td>
       <td>13:30–15:00</td>
       <td>Gurleen Padda</td>
-      <td>TBD</td>
+      <td>Cédrick Perron</td>
       <td>Ayana Sarkar and Olivier Nahman-Lévesque:<br>Efficient Classical Simulation of Quantum Circuits — Part II</td>
       <td>Cunlu Zhou</td>
     </tr>
